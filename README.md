@@ -73,13 +73,8 @@ This project analyzes sales data from Ferns N Petals (FNP), a gifting platform s
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](images/sales-dashboard.png)
+<img width="1878" height="852" alt="Screenshot 2024-10-24 160552" src="https://github.com/user-attachments/assets/64b3de48-2cc8-4805-8a48-5cbf890d1a74" />
 
----
-
-## 🔗 Project Links
-- Dashboard File (.pbix): (Add link)  
-- GitHub Repository: (Add link)  
 
 ---
 
